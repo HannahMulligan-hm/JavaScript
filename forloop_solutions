@@ -1,0 +1,13 @@
+//Algo 1
+for(var j=1; j<20;j+=2){
+    console.log(j)
+}
+//1,3,5,7,9,11,13,15,17,19
+
+//Algo 2
+var j=0; for(var i=1;i<=5;i++){
+    console.log(i);
+    j=j+i;
+    console.log(j);
+}
+//1,1,2,3,3,6,4,10,5,15
