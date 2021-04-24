@@ -1,0 +1,13 @@
+// Algo 1
+for(var j=1; j<20; j++){
+  if(j%2=0){
+  console.log(j)
+  }
+  
+  //Algo 2 
+  var j=0;for(var i=1; i<=5; i++){
+  console.log(i);
+  j=j+i;
+  console.log(j);
+  
+  
